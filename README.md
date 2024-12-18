@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for test purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://chiin-tan.github.io/jupyterlite-test**
+➡️ **https://mopac-ds.github.io/jupyterlite-test**
 
 ## Requirements
 
